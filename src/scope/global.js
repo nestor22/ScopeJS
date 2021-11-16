@@ -27,5 +27,6 @@ const anotherFunction2=()=>{
     var localVar = globalVar = 'Im a global'
 
 }
+console.log(globalVar);
 
 
