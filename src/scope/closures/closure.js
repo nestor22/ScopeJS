@@ -7,7 +7,7 @@ const moneyBox = (coins)=>{
 moneyBox(5);
 moneyBox(10);
 
-//closure 
+//closure variable
 const moneyBox = ()=>{
     var saveCoins = 0;
     const countCoins = (coins)=>{
